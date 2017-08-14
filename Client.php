@@ -105,6 +105,7 @@ class Client
             'win_res' => $win_res,
             'mac_res' => $mac_res,
             'quality' => $quality,
+            'browsers' => $browsers,
             'wait_time' => $wait_time,
             'orientation' => $orientation,
             'local' => $local,
