@@ -120,7 +120,7 @@ class Client
     }
 
     /**
-     * Generate the list of screenshots and their states
+     * Get the list of screenshots and their states
      * @param  String $job_id The job ID you are requesting details about
      * @return Array         The details of the provided screenshot job
      */
